@@ -15,6 +15,7 @@ func main() {
 	if err != nil {
 		fmt.Println("Error dred")
 	}
+
 	fmt.Println("String Length:", strLen)
 	fmt.Printf("O NUMERO SUPREMO É O %v\n", n)
 }
